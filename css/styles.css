@@ -64,7 +64,7 @@
 
 
 .skill-row{
-  width: 50%;
+  width: 60%;
   margin: 100px auto;
   text-align: left;
 
@@ -112,12 +112,12 @@
 .contact-me{
   padding-top: 30px;
   padding-bottom: 30px;
-  width: 30%;
+  width: 40%;
   margin: auto;
 }
 
 .intro{
-  width:30%;
+  width:40%;
   margin:auto;
 }
 

@@ -4,7 +4,7 @@
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 60px;
-  padding-bottom:0px;
+  padding-bottom:0;
   position:relative;
   color: #66BFBF;
 }
@@ -67,6 +67,9 @@
   margin:auto;
 }
 
+.linkedin {
+  width:1.0%;
+}
 
 .skill-row{
   width: 60%;
@@ -111,7 +114,7 @@
 }
 .skills{
   padding-top:60px;
-  padding-bottom: 0px;
+  padding-bottom: 0;
 }
 
 .contact-me{

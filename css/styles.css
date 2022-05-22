@@ -4,7 +4,7 @@
   margin-top: 0;
   margin-bottom: 0;
   padding-top: 60px;
-  padding-bottom:30px;
+  padding-bottom:0px;
   position:relative;
   color: #66BFBF;
 }
@@ -59,8 +59,13 @@
 
 .Matthias-Profile-Img {
   width: 20%;
+  margin-bottom: 26px;
 }
 
+.mountain {
+  width:80%;
+  margin:auto;
+}
 
 
 .skill-row{
@@ -101,17 +106,17 @@
 
 
 .profile{
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
-.skill{
-  padding-top: 30px;
-  padding-bottom: 30px;
+.skills{
+  padding-top:60px;
+  padding-bottom: 0px;
 }
 
 .contact-me{
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   width: 40%;
   margin: auto;
 }
@@ -119,6 +124,7 @@
 .intro{
   width:40%;
   margin:auto;
+  margin-top: 26px;
 }
 
 .copyright{
@@ -164,6 +170,7 @@ h2 {
   font-size: 2.0rem;
   color: #66BFBF;
   font-weight: normal;
+  margin:0;
 }
 
 h3{
